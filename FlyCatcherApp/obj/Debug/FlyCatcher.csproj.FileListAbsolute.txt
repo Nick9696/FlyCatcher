@@ -1,0 +1,16 @@
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\FlyCatcher.csprojAssemblyReference.cache
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\MainWindow.baml
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\MainWindow.g.cs
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\App.g.cs
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\DepthBasics-WPF.exe
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\FlyCatcher.csproj.GenerateResource.cache
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\FlyCatcher.csproj.CoreCompileInputs.cache
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\bin\Debug\DepthBasics-WPF.exe
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nsienkiew\Documents\GitHub\FlyCatcher\FlyCatcherApp\obj\Debug\FlyCatcher.csproj.CopyComplete
